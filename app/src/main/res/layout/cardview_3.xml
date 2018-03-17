@@ -5,7 +5,6 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_margin="10dp"
     app:cardElevation="10dp"
-
     >
 
 
@@ -74,9 +73,6 @@
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:layout_marginRight="10dp"
-
-
-
                     />
                 <ImageView
                     android:id="@+id/ico2"
@@ -87,11 +83,6 @@
                     android:layout_marginRight="10dp"
                     android:layout_toLeftOf="@id/ico3"
                     android:layout_marginTop="10dp"
-
-
-
-
-
                     />
 
                 <ImageView
@@ -103,19 +94,11 @@
                     android:layout_marginLeft="10dp"
                     android:layout_toLeftOf="@id/ico1"
                     android:layout_marginTop="10dp"
-
-
-
-
                     ></ImageView>
             </RelativeLayout>
 
 
         </LinearLayout>
-
-
-
-
 
 
 
