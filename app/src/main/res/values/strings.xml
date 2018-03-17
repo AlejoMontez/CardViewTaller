@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CardViewTaller</string>
+    <string name="text1">COLOMBIA</string>
+    <string name="resena1">Es un país soberano situado en la región noroccidental de América del Sur.</string>
+    <string name="text2">MEXICO</string>
+    <string name="resena2">Es un país de América ubicado en la parte meridional de América del Norte</string>
+    <string name="text3">CANADA</string>
+    <string name="resena3">Es un país soberano de América del Norte, cuya forma de gobierno es la monarquía parlamentaria federal.</string>
+    <string name="text4">EE.UU</string>
+    <string name="resena4">Es un país soberano constituido en república federal constitucional compuesta por cincuenta estados y un distrito federal.</string>
+</resources>
